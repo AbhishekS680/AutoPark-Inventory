@@ -1,9 +1,3 @@
-/*
-Name: Abhishek Sinha
-Student Number: 101338920
-Course Number: COMP1406 E
- */
-
 import java.util.Scanner;
 
 public class AutoParkTester {
